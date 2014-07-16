@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="2.4">
+  <GlyphOrder src="Lemon-Regular.ttf.GlyphOrder.ttx"/>
+  <head src="Lemon-Regular.ttf._h_e_a_d.ttx"/>
+  <hhea src="Lemon-Regular.ttf._h_h_e_a.ttx"/>
+  <maxp src="Lemon-Regular.ttf._m_a_x_p.ttx"/>
+  <OS_2 src="Lemon-Regular.ttf.O_S_2f_2.ttx"/>
+  <hmtx src="Lemon-Regular.ttf._h_m_t_x.ttx"/>
+  <cmap src="Lemon-Regular.ttf._c_m_a_p.ttx"/>
+  <prep src="Lemon-Regular.ttf._p_r_e_p.ttx"/>
+  <loca src="Lemon-Regular.ttf._l_o_c_a.ttx"/>
+  <glyf src="Lemon-Regular.ttf._g_l_y_f.ttx"/>
+  <name src="Lemon-Regular.ttf._n_a_m_e.ttx"/>
+  <post src="Lemon-Regular.ttf._p_o_s_t.ttx"/>
+  <gasp src="Lemon-Regular.ttf._g_a_s_p.ttx"/>
+  <FFTM src="Lemon-Regular.ttf.F_F_T_M_.ttx"/>
+  <GDEF src="Lemon-Regular.ttf.G_D_E_F_.ttx"/>
+  <GPOS src="Lemon-Regular.ttf.G_P_O_S_.ttx"/>
+  <GSUB src="Lemon-Regular.ttf.G_S_U_B_.ttx"/>
+  <DSIG src="Lemon-Regular.ttf.D_S_I_G_.ttx"/>
+</ttFont>

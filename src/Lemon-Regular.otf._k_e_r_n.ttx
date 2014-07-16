@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <kern>
+    <version value="0"/>
+    <kernsubtable coverage="1" format="0">
+      <pair l="A" r="T" v="-40"/>
+      <pair l="A" r="V" v="-35"/>
+      <pair l="A" r="Y" v="-30"/>
+      <pair l="A" r="quotedbl" v="-30"/>
+      <pair l="F" r="A" v="-40"/>
+      <pair l="F" r="a" v="-70"/>
+      <pair l="L" r="T" v="-50"/>
+      <pair l="L" r="quotedbl" v="-60"/>
+      <pair l="P" r="A" v="-30"/>
+      <pair l="T" r="A" v="-40"/>
+      <pair l="T" r="a" v="-60"/>
+      <pair l="T" r="comma" v="-100"/>
+      <pair l="V" r="a" v="-25"/>
+      <pair l="Y" r="a" v="-20"/>
+      <pair l="f" r="asterisk" v="80"/>
+      <pair l="f" r="parenright" v="50"/>
+      <pair l="f" r="quotedbl" v="80"/>
+      <pair l="f" r="quotedblright" v="80"/>
+      <pair l="k" r="a" v="-20"/>
+      <pair l="o" r="x" v="-20"/>
+      <pair l="quotedbl" r="A" v="-40"/>
+      <pair l="quotedblleft" r="A" v="-30"/>
+      <pair l="r" r="a" v="-30"/>
+      <pair l="x" r="a" v="-20"/>
+    </kernsubtable>
+  </kern>
+
+</ttFont>
